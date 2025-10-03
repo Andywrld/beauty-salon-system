@@ -1,0 +1,21 @@
+# Evita archivos compilados de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Entornos virtuales
+venv/
+.env/
+.venv/
+
+# Configuración de IDEs y editores
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Archivos de logs y caché
+*.log
+*.sqlite3
+db.sqlite3

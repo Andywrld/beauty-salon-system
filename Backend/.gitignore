@@ -1,0 +1,10 @@
+# ——— Caché de Python ———
+__pycache__/
+*.py[cod]
+*$py.class
+media/
+migrations/
+*.env
+# ── Migraciones de Django ─────────────────────────────
+**/migrations/**         
+!**/migrations/
